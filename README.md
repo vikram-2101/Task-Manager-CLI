@@ -4,7 +4,7 @@
 
 A simple command-line application to manage your to-do list. You can add, update, delete, and list tasks, with each task having properties like description, status, creation date, and update date.
 
-- Project URL https://github.com/vikram-2101/Task-Manager-CLI
+ solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
 
 ## Features
 
